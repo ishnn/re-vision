@@ -1,0 +1,11 @@
+numpy==1.19.5
+opencv-python==4.6.0.66-cp36-abi3-win_amd64
+pillow==9.2.0
+wolframalpha==5.0.0-py3-none-any
+pandas==1.1.5-cp37-cp37m-win_amd64
+torch==1.12.1-cp37-cp37m-win_amd64
+torchvision==0.13.1-cp37-cp37m-win_amd64
+pytesseract==0.3.10-py3-none-any
+keras==2.8.0
+tensorflow==2.8.0
+scikit_learn==1.0.2-cp37-cp37m-win_amd64
