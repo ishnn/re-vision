@@ -2,13 +2,13 @@
 
 Steps to run-
 
-1. Install Python 3.0
+1. Install Python 3.7.0
 
 2. Download and copy all folders from https://drive.google.com/file/d/1Jja5euVon9pT8e1HckJacBUaaS_qakdh/view?usp=sharing
 
 3. Run command pip install -r requirements.txt
 
-4. Run .py
+4. Run main.py file
 
 
 It is a project of Hackathon organized by iNeuron at JECRC University, Jaipur. The problem statement was to built models should be able to find database images that correspond to a given query image. It means the model should retrieve database images containing the same object as the query.
